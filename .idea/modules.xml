@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EmailServiceConsumer/EmailServiceConsumer.iml" filepath="$PROJECT_DIR$/EmailServiceConsumer/EmailServiceConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MainApp/MainApp.iml" filepath="$PROJECT_DIR$/MainApp/MainApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrderServiceProducer/OrderServiceProducer.iml" filepath="$PROJECT_DIR$/OrderServiceProducer/OrderServiceProducer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StockServiceConsumer/StockServiceConsumer.iml" filepath="$PROJECT_DIR$/StockServiceConsumer/StockServiceConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/week3-kafka-Assessment.iml" filepath="$PROJECT_DIR$/.idea/week3-kafka-Assessment.iml" />
+    </modules>
+  </component>
+</project>

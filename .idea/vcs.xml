@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/EmailServiceConsumer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OrderServiceProducer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StockServiceConsumer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kafka-producer-consumer-microservices" vcs="Git" />
+  </component>
+</project>
